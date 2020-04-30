@@ -1,4 +1,4 @@
 theme: jekyll-theme-hacker
 title: www.mnorin.com
 description: Блог про Linux, Bash и другие информационные технологии
-
+permalink: /:title/
