@@ -1,6 +1,9 @@
 ---
 layout: post
 author: mnorin
+date: 2020-04-30
+category: [posts]
+tags: ["Новое начало"]
 ---
 
 ## Почему этот сайт здесь?
