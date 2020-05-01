@@ -43,7 +43,7 @@ mhddfs: directory '/mnt/disk1' added to list
 mhddfs: directory '/mnt/disk2' added to list
 mhddfs: directory '/mnt/disk3' added to list
 mhddfs: move size limit 4294967296 bytes
-mhddfs: mount point '/home/usert/big_drive'
+mhddfs: mount point '/home/user/big_drive'
 ```
 
 Результат работы команды "df -h" будет такой:
