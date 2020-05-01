@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-
+<!-- 
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
@@ -15,4 +15,4 @@ layout: home
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
-</div>
+</div> -->
