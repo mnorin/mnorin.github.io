@@ -14,8 +14,7 @@ texture:
   showPicker: false
   social_links:
     github: mnorin
-
-header_pages:
-  - index.html
-  - categories.html
+  header_pages:
+    - index.html
+    - categories.html
 
