@@ -78,7 +78,7 @@ PING_RESULT=$(ping -c $pingcount $host_ip)
 ```
 И проверять таким образом:
 ```
-if [ "`echo $PING_RESULT | grep "ttl=6"`" != "" ]
+if [ "$(echo $PING_RESULT | grep "ttl=6")" != "" ]
 ```
 
 Таким образом можно еще немного сократить время выполнения итогового скрипта.
