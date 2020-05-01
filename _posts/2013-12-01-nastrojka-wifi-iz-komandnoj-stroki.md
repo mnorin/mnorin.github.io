@@ -89,7 +89,7 @@ Cell 04 - Address: 64:70:02:A4:D5:4E
 
 Создаем файл /etc/wpa_supplicant/wpa_supplicant.conf:
 ```
-wpa_passphrase wireless-net password > /etc/wpa_supplicant/wpa_supplicant.conf
+wpa_passphrase wireless-net <пароль-к-сети> > /etc/wpa_supplicant/wpa_supplicant.conf
 ```
 
 И затем даем команду
