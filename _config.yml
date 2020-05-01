@@ -1,8 +1,9 @@
-theme: jekyll-theme-hacker
+# theme: jekyll-theme-hacker
+remote_theme: thelehhman/texture
 title: Опенсорсный блог
 description: Блог про Linux, Bash и другие информационные технологии
 permalink: /:title
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-toc
+
 
