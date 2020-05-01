@@ -3,8 +3,12 @@ remote_theme: thelehhman/texture
 title: Опенсорсный блог
 description: Блог про Linux, Bash и другие информационные технологии
 permalink: /:title
-gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
 show_excerpts: true
 excerpt_separator: <!--more-->  #Should work OK with posts exported from Wordpress
 paginate: 10
