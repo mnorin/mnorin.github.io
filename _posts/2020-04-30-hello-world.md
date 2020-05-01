@@ -2,7 +2,7 @@
 layout: post
 title: Hello world
 description: Почему этот сайт здесь?
-author: mnorin
+author: Maxim Norin
 date: 2020-04-30
 category: Posts
 ---
