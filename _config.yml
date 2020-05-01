@@ -5,6 +5,9 @@ description: Блог про Linux, Bash и другие информацион�
 permalink: /:title
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-
+show_excerpts: true
 texture:
+  style: black
   showNav: true
+  showPicker: false
+
