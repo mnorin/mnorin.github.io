@@ -6,6 +6,7 @@ permalink: /:title
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 show_excerpts: true
+excerpt_separator: <!--more-->  #Should work OK with posts exported from Wordpress
 header_pages:
   - index.md
   - categories.md
