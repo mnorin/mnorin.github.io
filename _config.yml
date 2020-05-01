@@ -12,5 +12,10 @@ texture:
   style: black
   showNav: true
   showPicker: false
-  github: mnorin
+  social_links:
+    github: mnorin
+
+header_pages:
+  - index.html
+  - categories.html
 
