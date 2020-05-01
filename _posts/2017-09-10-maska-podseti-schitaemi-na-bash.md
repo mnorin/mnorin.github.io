@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Маска подсети: считаем на bash
+title: "Маска подсети: считаем на bash"
 author: mnorin
 date: 2017-09-10
 category: Posts
