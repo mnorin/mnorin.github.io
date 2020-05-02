@@ -70,13 +70,13 @@ do
           echo
           echo Brightness is set to $1
           echo
-      else
-        echo
-        echo Usage: brightness \[INTEGER\|show\|restore\]
-        echo INTEGER is integer value acceptable as device brightness. It must be between 1 and maximum for your device
-        echo To get maximum values use \"brightness show\"
-        echo
-    fi
+        else
+          echo
+          echo Usage: brightness \[INTEGER\|show\|restore\]
+          echo INTEGER is integer value acceptable as device brightness. It must be between 1 and maximum for your device
+          echo To get maximum values use \"brightness show\"
+          echo
+      fi
   ;;
   esac
 done
