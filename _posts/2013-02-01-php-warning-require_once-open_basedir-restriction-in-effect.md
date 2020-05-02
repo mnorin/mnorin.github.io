@@ -19,6 +19,8 @@ tags:
 ```
 PHP Warning:  require_once(): open_basedir restriction in effect. File(/var/www/file1.php) is not within the allowed path(s): (.) in /var/www/file2.php on line 36
 ```
+<!--more-->
+
 Для исправления нужно отредактировать настройки безопасности apache. В файле /etc/apache2/conf.d/security.conf поменять
 ```
 php_admin_value open_basedir "."
