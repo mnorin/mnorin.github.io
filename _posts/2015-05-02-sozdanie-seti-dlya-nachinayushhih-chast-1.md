@@ -65,15 +65,15 @@ tags:
 
 Коннекторы выглядят так:
 
-<img class="aligncenter wp-image-2078 size-full" src="https://mnorin.com/wp-content/uploads/2015/04/connector-8p8c.jpg" alt="Создание сети для начинающих. Часть 1" width="400" height="338" />
+<img src="/assets/images/2015/04/connector-8p8c.jpg" alt="Создание сети для начинающих. Часть 1" width="150" height="150" />
 
 А клещи для обжимки (кримпер) выглядят так (вариант без фиксатора):
 
-<img class="aligncenter wp-image-2079 size-full" src="https://mnorin.com/wp-content/uploads/2015/04/krimper1.jpg" alt="Создание сети для начинающих. Часть 1" width="640" height="635" />
+<img src="/assets/images/2015/04/krimper1.jpg" alt="Создание сети для начинающих. Часть 1" width="300" height="298" />
 
 Или так (вариант с фиксатором):
 
-<img class="aligncenter wp-image-2083 size-full" src="https://mnorin.com/wp-content/uploads/2015/05/krimper3.jpg" alt="Создание сети для начинающих. Часть 1" width="500" height="500" />
+<img src="/assets/images/2015/05/krimper3.jpg" alt="Создание сети для начинающих. Часть 1" width="300" height="300" />
 
 В принципе, разница не очень большая, но клещи с фиксатором не позволяют коннектору выпасть из кримпера до конца обжимки, даже если вы его отпустили и положили, допустим, на стол, а также гарантируют разжатие кримпера только после того, как коннектор до конца обжат.
 
