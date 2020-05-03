@@ -24,7 +24,7 @@ tags:
 ## Просмотр документов в консоли
 Вот подборка программ, которые могут потребоваться для просмотра файлов документов различных форматов:
 
-| Формат | Программа | Пакет |
+| Формат &nbsp;&nbsp;&nbsp;&nbsp;| Программа&nbsp;&nbsp;&nbsp;&nbsp;| Пакет |
 |-|-|
 |.pdf|pdftotext|poppler-utils|
 |.doc|antiword<br>catdoc<br>word2x<br>strings|antiword<br>catdoc<br>Устарел<br>binutils|
